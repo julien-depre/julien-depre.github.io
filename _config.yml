@@ -1,16 +1,4 @@
-title: "Julien DEPRE"
-description: "My personal landing page"
 url: "https://dep.re"
-baseurl: ""
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 minima:
   skin: solarized
-
-# kramdown defaults
-markdown: kramdown
-kramdown:
-  input: GFM
