@@ -1,8 +1,6 @@
 url: "https://dep.re"
 title: Landing page
-author:
-  name: Julien DEPRE
-  email: julien@dep.re
+author: julien@dep.re
 theme: minima
 minima:
   skin: solarized
