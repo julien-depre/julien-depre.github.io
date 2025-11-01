@@ -1,7 +1,6 @@
 ---
----
 layout: home
-title: "Julien DEPRE"
+title: "Index"
 ---
 
 # Julien DEPRE
