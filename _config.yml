@@ -2,9 +2,10 @@ title: "Julien DEPRE"
 description: "Personal landing page for Julien DEPRE"
 url: "https://dep.re"
 baseurl: ""
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 author:
   name: "Julien DEPRE"
