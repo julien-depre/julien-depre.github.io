@@ -3,8 +3,6 @@ layout: home
 title: "Index"
 ---
 
-# Julien DEPRE
-
 Welcome — this is my personal landing page.
 
 A few quick links:

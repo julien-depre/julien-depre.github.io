@@ -1,15 +1,11 @@
 title: "Julien DEPRE"
-description: "Personal landing page for Julien DEPRE"
+description: "My personal landing page"
 url: "https://dep.re"
 baseurl: ""
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-author:
-  name: "Julien DEPRE"
-  email: "julien@dep.re"
 
 minima:
   skin: solarized
